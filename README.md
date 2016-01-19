@@ -1,8 +1,4 @@
-MP2 submission for CS425/Fall 2015<br>
-Team:<br>
-Ahmed Soliman   (asolima2)<br>
-Caleb Tote      (tote2)<br>
-<br>
+
 File needed to run the project:
 UX.jar                  -- main jar containing project compiled code<br>
 config.properties       -- properties file containing the configuration parameters of the system<br>
@@ -27,4 +23,3 @@ l <Enter> to list the current peer group <br>
 i <Enter> to print the ID <br>
 q <Enter> to exit the application peacefully <br>
 <br>
-Basecamp Link: https://basecamp.com/3028333/projects/10358092
